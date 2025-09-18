@@ -1,2 +1,2 @@
-# allurio.github.io
+# Ilya
 Приклад роботи з HTML і CSS
